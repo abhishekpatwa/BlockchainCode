@@ -23,4 +23,4 @@ docker run nciabhishekpatwa/blockchaintokendeployment:tagname
 Trouble Shooting
 Invalid address error.
 Kindly make following chnages in distribute.js file.
-change .split('\r\n'); to .split('\n'); on line number 19
+change .split('\r\n'); to .split('\n'); on line number 19.
